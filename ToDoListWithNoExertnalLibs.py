@@ -1,4 +1,3 @@
-saveFile = open('to do list without external libs save file.txt', mode='r+')
 missions = {}
 indexOfMission = 1
 
